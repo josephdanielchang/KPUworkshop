@@ -1,1 +1,1 @@
-/kpuworkshop/mnist/MNISTtools.py
+mnist/MNISTtools.py
